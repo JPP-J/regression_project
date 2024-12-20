@@ -9,8 +9,10 @@ This repo is home to the code that accompanies Jidapa's *Regression Project and 
     - Model Training
     - Model Evaluation
   
-- [R programming report](https://drive.google.com/file/d/1C0j8NojlcZ9rU4lFwgy0UjUWybI4jX7N/view?usp=sharing) about hypothesis and testing with:
+- [R programming report](https://github.com/JPP-J/regression_project/blob/b2039db0b3abe4dd13119cf0d911b78e3580f2ab/R_hypothesis_testing_report.pdf) about hypothesis and testing with:
   - Chi-Square Test 
   - Logit Model
   - Regression Analysis
+ 
+
 
