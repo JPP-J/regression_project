@@ -1,4 +1,7 @@
 # Regression Project and R-Programming Report
+![Last Commit](https://img.shields.io/github/last-commit/JPP-J/regression_project?style=flat-square)
+![Python](https://img.shields.io/badge/Python-100%25-blue?style=flat-square)
+![Languages](https://img.shields.io/github/languages/count/JPP-J/regression_project?style=flat-square)
 
 This repo is home to the code that accompanies Jidapa's *Regression Project and R-Programming Report* , which provides; 
 - example python code for regression in [main.py](https://github.com/JPP-J/regression_project/blob/3bc9b06b5e0672a7325827a3e6bc69a5460e7c2e/main.py) or [kaggle code ](https://kaggle.com/code/jidapapooljan/linear-regression) with
