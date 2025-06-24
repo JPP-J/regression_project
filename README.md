@@ -6,7 +6,7 @@
 This repository contains the code and report accompanying Jidapa's *Regression Project and R-Programming Report*, featuring:
 
 - Example Python code for regression in [`main.py`](main.py) or on [Kaggle](https://kaggle.com/code/jidapapooljan/linear-regression), demonstrating a  
-  **Report Analyzing Amazon Sales Data Using Linear Regression Techniques to Predict Revenue** (`R_hypothesis_testing_report.pdf`).  
+  **Report Analyzing Amazon Sales Data Using Linear Regression Techniques to Predict Revenue** [`R_hypothesis_testing_report.pdf`](R_hypothesis_testing_report.pdf).  
   The project covers:
   - Data Pre-processing
   - Feature Selection
